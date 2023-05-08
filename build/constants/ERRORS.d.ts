@@ -1,0 +1,23 @@
+export declare const ERRORS: {
+    NO_CREDENTIALS: string;
+    AUTHENTICATION_FAILED: string;
+    PASSWORD_EXPIRED: string;
+    USER_SUSPENDED: string;
+    USER_TERMINATED: string;
+    ALREADY_REGISTERED: string;
+    USER_NOTFOUND: string;
+    CLIENT_NOTFOUND: string;
+    CLIENT_ALREADY_REGISTERED: string;
+    OTP_NOTFOUND: string;
+    INVALID_OTP_CODE: string;
+    OTP_CODE_EXPIRE_IN: string;
+    INVALID_ACTION: string;
+    PASSWORD_REGEX_ERROR: string;
+    BUSINESS_NOTFOUND: string;
+    INVALID_OTP_CHARSET: string;
+    INVALID_OLD_PASSWORD: string;
+    INVALID_EMAIL: string;
+    INVALID_PIN: string;
+    PARTNER_NOTFOUND: string;
+    USER_ALREADY_REGISTERED: string;
+};
